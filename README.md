@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Webdev , Java and Devops.
 - 💞️ I’m looking to collaborate and learn.
 - 📫 Rech me on twitter  : https://twitter.com/PatelMedhansh
-- 🎮 Join Discord Server : 
+- 🎮 Join Discord Server : https://discord.gg/wJxedmBfM5
 
 <!---
 Patelmedhansh/Patelmedhansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
