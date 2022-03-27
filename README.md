@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patelmedhansh
 - 👀 I’m tech enthusiast.
-- 🌱 I’m currently learning Webdev , Java and Devops.
+- 🌱 I’m currently learning Webdev , Web3, Java and Devops.
 - 💞️ I’m looking to collaborate and learn.
 - 📫 Rech me on twitter  : https://twitter.com/PatelMedhansh
 - 🎮 Join Discord Server : https://discord.gg/wJxedmBfM5
