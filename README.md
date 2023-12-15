@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@medhanshhh](https://hashnode.com/@medhanshhh)
 
-- 💬 Ask me about **Linux,Cloud , Docker, Kubernities, Jenkins , Ansible ,CI/CD,Python,GO ,js and more.**
+- 💬 Ask me about **MERN,Linux,Cloud , Docker, Kubernities, Jenkins , Ansible ,CI/CD,Python,GO ,js and more.**
 
 - 📫 How to reach me **medhanshcloud@gmail.com**
 
