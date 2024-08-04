@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ** MERN Stack , Devops/cloud, Open Source **
 
-- 📫 How to reach me **medhanshcloud@gmail.com**
+- 📫 How to reach me **medhanshpatel18@gmail.com**
 
 - ⚡ Fun fact **I develop things to make world fancy !**
 
