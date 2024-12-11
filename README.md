@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@medhanshhh](https://hashnode.com/@medhanshhh)
 
-- 💬 Ask me about ** MERN Stack , Devops/cloud, Open Source **
+- 💬 Ask me about  Devops/cloud, Open Source, Community.
 
 - 📫 How to reach me **medhanshpatel18@gmail.com**
 
