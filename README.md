@@ -1,28 +1,59 @@
 <h1 align="center">Hi 👋, I'm Medhansh Patel</h1>
-<h3 align="center">A Computer Science undergraduate student passionate about DevOps and open source development. Welcome to my GitHub profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmedhansh&label=Profile%20views&color=0e75b6&style=flat" alt="patelmedhansh" /> </p>
-
-- 📝 I regularly write articles on [https://hashnode.com/@medhanshhh](https://hashnode.com/@medhanshhh)
-
-- 💬 Ask me about  Devops/cloud, Open Source, Community.
-
-- 📫 How to reach me **medhanshpatel18@gmail.com**
-
-- ⚡ Fun fact **I develop things to make world fancy !**
-
-- Porfolio Website https://medhanshportfolio.netlify.app/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/medhanshhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medhanshhhh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@medhanshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@medhanshhh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://medhanshportfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Founder+%40+Cloud+Craft+Services+LLP;Cloud+%26+DevOps+Enthusiast;Open+Source+%26+Community;Building+tech+that+serves+people" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patelmedhansh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/medhanshclv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medhanshclv" /></a></p><br><br>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelmedhansh&show_icons=true&locale=en&layout=compact" alt="patelmedhansh" /></p>
+### 🧑‍💻 About Me
+
+- 🏢 **Founder of [Cloud Craft Services LLP](#)** — a Vadodara-based studio for web development, cloud solutions, AI integration, UI/UX and digital marketing
+- 🌱 **Coordinator of Program Nachiketa** — a volunteer-driven rural education and digital literacy initiative across villages in Gujarat and Maharashtra
+- 🎓 **B.Tech in Computer Science & Engineering**, Navrachana University
+- 🛠️ Currently building **TripCard** — a SaaS for sharing trip invitations and details
+- ✍️ I write about tech on [Hashnode](https://hashnode.com/@medhanshhh)
+- 💬 Ask me about **DevOps / Cloud, Open Source, Community, and Tech for Social Impact**
+- ⚡ Fun fact: **I develop things to make the world fancy!**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,linux,git,go,python,java,js&perline=11" alt="tech stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patelmedhansh&show_icons=true&hide_border=true&theme=default&title_color=0e75b6&icon_color=0e75b6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelmedhansh&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://medhanshportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/medhanshhhh" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://hashnode.com/@medhanshhh" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="mailto:medhanshpatel18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### ☕ Support
+
+<a href="https://www.buymeacoffee.com/medhanshclv" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Buy Me A Coffee" />
+</a>
